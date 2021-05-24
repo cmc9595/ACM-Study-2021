@@ -1,7 +1,6 @@
 def solution(bridge_length, weight, truck_weights):
     time = 0
     end, mid, start = [], [], truck_weights
-    current = 0
     while start or mid:
         # mid 끝난것 end로
         if mid:
