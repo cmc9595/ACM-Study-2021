@@ -1,16 +1,16 @@
 # week 3
 -----------------
->1.
+1.
 >https://programmers.co.kr/learn/courses/30/lessons/42839
->2. 
+2. 
 >https://programmers.co.kr/learn/courses/30/lessons/42578
->3.
+3.
 >https://programmers.co.kr/learn/courses/30/lessons/60059
->4.
+4.
 >https://programmers.co.kr/learn/courses/30/lessons/43164
->5.
+5.
 >https://programmers.co.kr/learn/courses/30/lessons/42747
->6.
+6.
 >https://programmers.co.kr/learn/courses/30/lessons/42586
->7.
+7.
 >https://programmers.co.kr/learn/courses/30/lessons/42627
