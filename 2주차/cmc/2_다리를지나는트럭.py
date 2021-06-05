@@ -9,8 +9,7 @@ def solution(bridge_length, weight, truck_weights):
             if mid[0][1] == bridge_length:
                 end.append(mid[0])
                 mid.pop(0)
-
-                # start에서 mid로
+        # start에서 mid로
         if start:
             if mid:
                 if sum(i[0] for i in mid) + start[0] <= weight:
