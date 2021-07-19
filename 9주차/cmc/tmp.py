@@ -15,3 +15,4 @@ d2 = [0, 0, 0, 2, 3, 2, 1, 2, 0]
 board = [[0 for _ in range(N)] for _ in range(N)]
 for i in board:
     print(i)
+asdf
